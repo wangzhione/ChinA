@@ -53,7 +53,7 @@ Step 1: 将原式子两边取 $log$ 函数, 整理后得
 
 $$ \frac{1}{T} \log(\frac{A_T}{A_0}) = \frac{W}{T}\log(1+bf) + \frac{L}{T}\log(1-f) $$
 
-Step 2: 若 $ T $ 逼近到无穷大(也就是玩无限次), 因为胜率为 $p$, 故 $ \frac{W}{T} $ 会趋近于 p; $ \frac{L}{T} $ 会趋近于 $ 1-p $. 即
+Step 2: 若 $T$ 逼近到无穷大(也就是玩无限次), 因为胜率为 $p$, 故 $\frac{W}{T}$ 会趋近于 $p$; $\frac{L}{T}$ 会趋近于 $1-p$. 即
 
 $$ \lim_{T \to \infty } \frac{1}{T} \log(\frac{A_T}{A_0}) = p\log(1+bf) + (1-p)\log(1-f) $$
 
