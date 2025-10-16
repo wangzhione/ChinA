@@ -615,4 +615,4 @@
 
 ***
 
-![](./resources/image/上帝之手.jpg)
+![](./resources/image/上帝之手.png)
